@@ -1,12 +1,12 @@
-## 📊 A/B Test Analysis — Marketing Campaign Performance
+A/B Test Analysis — Marketing Campaign Performance
 
-### 🧠 Project Overview
+###  Project Overview
 This project analyzes the performance of two campaign variants — **Test** and **Control** — for an e-commerce platform.  
 The goal was to evaluate how different campaign strategies impact key performance indicators (KPIs).
 
 ---
 
-### 🎯 KPIs Definition
+###  KPIs Definition
 | Metric | Description |
 |:--|:--|
 | **CTR (Click-Through Rate)** | Percentage of viewers who clicked the ad |
@@ -16,14 +16,14 @@ The goal was to evaluate how different campaign strategies impact key performanc
 
 ---
 
-### ⚙️ Technologies Used
+###  Technologies Used
 - **Excel** — data validation and cleaning  
 - **SQL** — KPI calculation and aggregation  
 - **Tableau** — data visualization and insight presentation  
 
 ---
 
-### 📈 Results
+###  Results
 
 | Campaign | CTR | PCR | ATC | CPP |
 |:--|--:|--:|--:|--:|
@@ -32,7 +32,7 @@ The goal was to evaluate how different campaign strategies impact key performanc
 
 ---
 
-### 🔍 Insights
+###  Insights
 - **CTR** increased by **+88%** — the test version drew much more user attention.  
 - **PCR** decreased by **–12%** — fewer site visits resulted in purchases.  
 - **CPP** increased by **+9%** — the cost per transaction was slightly higher.  
@@ -40,12 +40,12 @@ The goal was to evaluate how different campaign strategies impact key performanc
 
 ---
 
-### 📊 Visualization
+###  Visualization
 The results were presented using a **Tableau dashboard** (see attached PDF).  
 It compares key metrics across campaigns using clear and accessible visuals.
 
 ---
 
-### 🧾 Conclusion
+###  Conclusion
 The **Test** version successfully improved engagement (CTR) but reduced purchase efficiency (PCR).  
-📌 **Recommendation:** Combine the visual appeal of the Test version with the conversion efficiency of the Control version to maximize overall performance.
+ **Recommendation:** Combine the visual appeal of the Test version with the conversion efficiency of the Control version to maximize overall performance.
